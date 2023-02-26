@@ -1,0 +1,9 @@
+{
+	"trailingComma": "all",
+	"useTabs": true,
+	"endOfLine": "crlf",
+	"proseWrap": "never",
+	"semi": true,
+	"singleQuote": true,
+	"quoteProps": "as-needed"
+}
